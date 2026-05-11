@@ -28,17 +28,21 @@ Passionate about building scalable web applications, AI-powered systems, APIs, a
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<table>
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/m-alisheikh" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+</td>
 
+<td>
 <a href="https://kaggle.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
-</p>
-
----
+</td>
+</tr>
+</table>
 
 # 💻 Tech Stack
 
